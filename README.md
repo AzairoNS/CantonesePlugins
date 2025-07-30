@@ -41,10 +41,15 @@ BHM式字內拼音音源用, 如: 四季家音源
 只測試了淺色錄音表, 沒進行其他測試
 
 Credit:
+
 wolfgitpr - original Pinyin.dll
+
 Lotte V - CantoneseSyoPhonemizer (base of CantoneseBHMPhonemizer)
+
 Haru.jpg - presamp.ini of Chinese
 
 Contact: x @AzairoNS
+
 Email: navysky1995@gmail.com
+
 Link to report error: https://docs.google.com/forms/d/e/1FAIpQLSfnFBWytXoetgi2k2by5fwE04KiEkT6DlKxCH-ixdIqyQTxcA/viewform?usp=dialog
